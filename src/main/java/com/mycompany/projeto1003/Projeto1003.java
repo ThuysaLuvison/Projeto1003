@@ -16,5 +16,5 @@ public class Projeto1003 {
         SOMA = A + B;
         System.out.println("SOMA = " + SOMA);
     }
-
+}
  
